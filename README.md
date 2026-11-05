@@ -87,5 +87,5 @@ Total Experiments: 15 | Total Questions: 49
 ---
 
 ## Submission Details
-- **GitHub Repository URL:** Contains complete assignment folders, code, outputs, and documentation.
-- **Java Lab File Google Drive URL:** Complete Java Lab File soft copy uploaded to Google Drive with public view access (*Anyone with the link - Viewer*).
+- **GitHub Repository URL:** https://github.com/Ramandeepkaur-codes/Introduction-to-Programming-Using-Java-Lab-BCS351-
+- **Java Lab File Google Drive URL:** https://drive.google.com/file/d/1Z3gAI4WXQ4yXpmA_yyzGJXqG9fS3wbUc/view?usp=drive_link
